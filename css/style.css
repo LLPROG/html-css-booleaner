@@ -27,18 +27,24 @@ span {
     background-color: yellow;
 }
 
-
-
-.background-thead {
-    background-color: blue;
-    color: rgb(255, 255, 255);
-    
+td {
+    min-width: 200px;
 }
 
 .background-table {
     background-color: aqua;
-
+    border-spacing: 0;
 }
+
+.background-thead {
+    background-color: blue;
+    color: white;
+}
+
+.background-tr {
+    background-color: white;
+}
+
 
 
 
