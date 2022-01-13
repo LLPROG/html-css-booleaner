@@ -1,0 +1,53 @@
+html {
+    margin: 0;
+}
+
+.cont-img {
+    height: 80px;
+    background-color: skyblue;
+    background-size: contain;
+    background-image: url(../img/pattern.png);
+} 
+
+.logo {
+    width: 200px;
+    margin: 10px;
+}
+
+.inserzioni {
+    color: gray;
+}
+
+.booleaner {
+    text-decoration: none;
+    color: blue;
+}
+
+span {
+    background-color: yellow;
+}
+
+td {
+    min-width: 200px;
+}
+
+.background-table {
+    background-color: aqua;
+    border-spacing: 0;
+}
+
+.background-thead {
+    background-color: blue;
+    color: white;
+}
+
+.background-tr {
+    background-color: white;
+}
+
+
+
+
+
+
+
